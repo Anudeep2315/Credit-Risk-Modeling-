@@ -1,2 +1,2 @@
-# Credit-Risk-Modeling-
+# Credit-Risk-Modeling
 Loan Approval Based on Credit Risk 
